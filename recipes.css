@@ -1,0 +1,19 @@
+.food {
+    height: auto;
+    width: 400px;
+    border-radius: 15%;
+    border: 7px solid #2C3639;
+}
+html {
+    background-color: #DCD7C9;
+}
+header, body {
+    border: 5px solid #A27B5C;
+}
+h1 {
+    text-align: center;
+}
+.nav li {
+    text-align: center;
+    list-style-type: "\1F944"; /* This effect creates the li bullets as spoons*/
+}
